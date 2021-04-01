@@ -102,27 +102,9 @@
             </div>
 
             <div class="row justify-content-center">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-4">
-                    <div class="single-portfolio-item portfolio-item-6 wow fadeIn">
-                        <?php $image = array_shift($images); ?>
-                        <?php require __DIR__ . '/widget/portfolio_image.php' ?>
-                    </div>
-                </div>
+              
             </div>
 
-            <div class="row justify-content-end">
-                <!-- Single Portfoio Area -->
-                <div class="col-12 col-md-4">
-                    <div class="single-portfolio-item portfolio-item-7 wow fadeIn">
-                        <div class="backend-content">        
-                            <h2>Future</h2>
-                        </div>
-                        <?php $image = array_shift($images); ?>
-                        <?php require __DIR__ . '/widget/portfolio_image.php' ?>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     <!-- ***** Portfolio Area End ***** -->

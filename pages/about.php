@@ -39,8 +39,8 @@
                         <h2>Здравствуйте, меня зовут Александр Лукашанец, и я начинающий фотограф</h2>
                         <p class="about-me-p">Приветствую Вас на своем сайте! Фото-творчество - это увлекательный процесс, занимающий практически все мое свободное от основной работы время с 2018 года.
                             <p class="about-me-p">Основными и любимыми жанрами являются - портретная фотография, 
-                                на свежем воздухе-в городе или на природе, а так же студийная художественная портретная съемка и жанр ню-арт. Важным моментом помимо самой съемки для меня является обработка кадров, я слежу за работами известных миру фотографами, всегда учусь, беру индивидуальные уроки у профессионалов фото-искусства, потому как новые методы и способы обработки позволяют создать красивые необычные снимки, идти в ногу со временем. Но так как это процесс творческий, и у каждого свой взгляд и свое видение мира, то работы фотографов отличаются, они как разные художники не могут написать один и тот же пейзаж или портрет одинаково. </p>
-                        <a href="contact.html" class="btn sonar-btn white-btn">записаться на съемку</a>
+                                на свежем воздухе-в городе или на природе, а так же пейзажи. Важным моментом помимо самой съемки для меня является обработка кадров, я слежу за работами известных миру фотографами, всегда учусь, беру индивидуальные уроки у профессионалов фото-искусства, потому как новые методы и способы обработки позволяют создать красивые необычные снимки, идти в ногу со временем. Но так как это процесс творческий, и у каждого свой взгляд и свое видение мира, то работы фотографов отличаются, они как разные художники не могут написать один и тот же пейзаж или портрет одинаково. </p>
+                        <a href="contacts" class="btn sonar-btn white-btn">записаться на съемку</a>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@
     </div>
     <!-- ***** Hero Area End ***** -->
 
-    <div class="sonar-about-us-area bg-img" style="background-image: url(img/bg-img/about2.jpg);">
+    <div class="sonar-about-us-area bg-img" style="background-image: url(img/bg-img/p3.jpg);">
         <!-- Back End Content -->
         <div class="backEnd-content">
             <h2>Dream</h2>
@@ -60,9 +60,11 @@
                     <div class="about-us-content bg-white">
                         <div class="section-heading text-left wow fadeInUp" data-wow-delay="300ms">
                             <div class="line"></div>
-                            <h2>Взгляните на мои качества</h2>
+                            <h2>Личные качества фотографа</h2>
                         </div>
-                        <p class="wow fadeInUp" data-wow-delay="600ms"> Текст текст текст много текста</p>
+                        <p class="wow fadeInUp" data-wow-delay="600ms">Считается, что профессия фотограф – простая и несложная, казалось бы, что трудного в том, чтобы держать фотоаппарат в руках и делать снимки.
+                         Однако профессия фотографа далеко не так проста, как многие думают.<br> Чтобы стать настоящим профессионалом, 
+                         фотограф должен обладать многими качествами. <br><br><strong> Мои качества:</strong> </p>
                         <!-- Progress Bar Content Area -->
                         <div class="services-progress-bar mt-50 wow fadeInUp" data-wow-delay="900ms">
                             <!-- Single Progress Bar -->
@@ -102,7 +104,7 @@
         </div>
     </div>
 
-    <div class="sonar-about-us-area second-part bg-img" style="background-image: url(img/bg-img/about3.jpg);">
+    <div class="sonar-about-us-area second-part bg-img" style="background-image: url(img/bg-img/p1.jpg);">
         <!-- Back End Content -->
         <div class="backEnd-content">
             <h2>Really</h2>
@@ -115,7 +117,7 @@
                         <div class="section-heading text-left wow fadeInUp" data-wow-delay="300ms">
                             <div class="line"></div>
                         </div>
-                        <p class="wow fadeInUp" data-wow-delay="600ms">Текст текст текст много текста</p>
+                        <p class="wow fadeInUp" data-wow-delay="600ms">Здесь вы можете увидеть, какая из категорий наиболее популярна на данный момент</p>
                         <div class="row mt-100 text-center wow fadeInUp" data-wow-delay="900ms">
                             <div class="col-12 col-sm-6 col-md-4">
                                 <div class="single-pie-bar" data-percent="90">

@@ -38,7 +38,8 @@
                     <div class="single-services-area wow fadeInUp" data-wow-delay="300ms">
                         <img src="img/core-img/camera.png" alt="">
                         <h4>Пейзажная фотография</h4>
-                        <p>Текст текст текст текст много текста</p>
+                        <p>Человек в контексте природы на пейзажных фотографиях – это еще один уникальный способ привнести внутренний смысл в простую
+						фотографию природы.</p>
                     </div>
                 </div>
                 <!-- Single Services Area -->
@@ -46,7 +47,8 @@
                     <div class="single-services-area wow fadeInUp" data-wow-delay="600ms">
                         <img src="img/core-img/vector.png" alt="">
                         <h4>Портреты</h4>
-                        <p>Текст текст текст текст много текста</p>
+                        <p>Самое главное в портретной фотографии – это возможность зрителя сопоставить увиденных персонажей с себе подобными, 
+						наделить их человеческими чертами и развить возможный сюжет.</p>
                     </div>
                 </div>
                 <!-- Single Services Area -->
@@ -54,7 +56,8 @@
                     <div class="single-services-area wow fadeInUp" data-wow-delay="900ms">
                         <img src="img/core-img/pantone.png" alt="">
                         <h4>Уличная фотография</h4>
-                        <p>Текст текст текст текст много текста</p>
+                        <p>Главное тут – спонтанность и наблюдение, готовность сфотографировать все то, 
+						что появляется перед объективом камеры и то, что кажется нам волнующим, эмоциональным и интересным.</p>
                     </div>
                 </div>
                 <!-- Single Services Area -->
@@ -62,7 +65,7 @@
                     <div class="single-services-area wow fadeInUp" data-wow-delay="300ms">
                         <img src="img/core-img/video-player.png" alt="">
                         <h4>Ночная фотография</h4>
-                        <p>Текст текст текст текст много текста</p>
+                        <p>Под ночной фотографией понимается фотография, сделанная в ночное время, а также процесс её получения.</p>
                     </div>
                 </div>
                 <!-- Single Services Area -->
@@ -70,7 +73,8 @@
                     <div class="single-services-area wow fadeInUp" data-wow-delay="600ms">
                         <img src="img/core-img/browsing.png" alt="">
                         <h4>Макрофотография</h4>
-                        <p>Текст текст текст текст много текста</p>
+                        <p>В основном используется для снятия маленьких объектов и фрагментов крупным планом. 
+						Благодаря этому жанру можно увидеть на снимках то, на что мы в обычной жизни чаще всего не замечаем.</p>
                     </div>
                 </div>
             </div>
@@ -78,7 +82,7 @@
     </div>
     <!-- ***** Services Area End ***** -->
 
-    <div class="sonar-testimonials-area bg-img" style="background-image: url(img/bg-img/tes.jpg);">
+    <div class="sonar-testimonials-area bg-img" style="background-image: url(img/bg-img/pk3.jpg);">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-7">
@@ -91,42 +95,44 @@
                         <div class="testimonial-slides owl-carousel">
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Спасибо огромное Вам Алексанр за веселую съемку и прекрасные фото. Всем рекомендую, 
+                                Александр профессионал "самых высоких высот" :-)  
+                                Очень приятно с ним работать. Очень вежливый, терпеливый и приятный человек!</p>
                                 <h6>Сергей Дувакин, Минск</h6>
                             </div>
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Хочу сказать огромное спасибо за фотосессию,  просто нет слов передать, насколько я благодарна☺️ Всегда думала, что нефотогеничная,  
+                                теперь я постоянный клиент, так сказать. Ещё раз огромное спасибо!)</p>
                                 <h6>Александра Божко, Молодечно</h6>
                             </div>
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Спасибо огромное Вам Алексанр за веселую съемку и прекрасные фото. Всем рекомендую, 
+                                Александр профессионал "самых высоких высот" :-)  
+                                Очень приятно с ним работать. Очень вежливый, терпеливый и приятный человек!</p>
                                 <h6>Денис Ровдо, Солигорск</h6>
                             </div>
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Хочу сказать огромное спасибо за фотосессию,  просто нет слов передать, насколько я благодарна☺️ Всегда думала, что нефотогеничная,  
+                                теперь я постоянный клиент, так сказать. Ещё раз огромное спасибо!)</p>
                                 <h6>Ольга Ценцевицкая, Минск</h6>
                             </div>
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
-                                <h6>Василий Пупкин, Могилев</h6>
-                            </div>
-
-                            <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Хочу сказать огромное спасибо за фотосессию,  просто нет слов передать, насколько я благодарна☺️ Всегда думала, что нефотогеничная,  
+                                теперь я постоянный клиент, так сказать. Ещё раз огромное спасибо!)</p>
                                 <h6>Таша Чуева, Витебск</h6>
                             </div>
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Фотоссесия прошла в дружелюбной, позитивной атмосфере. Очень понравилось - все три часа красились, фотографировались, смеялись и шутили. Как результат, красивые и качественные фотографии. Спасибо, Александр! Желаю вам счастья, позитива и успехов в работе!</p>
                                 <h6>Маргарита Чернявская, Новополоцк/h6>
                             </div>
 
                             <div class="single-tes-slide">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque. Fusce sagittis suscipit sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel tortor facilisis, volutpat nulla placerat, tincidunt mi. Nullam vel orci dui. Suspendisse sit amet laoreet neque.</p>
+                                <p>Спасибо огромное Вам Алексанр за веселую съемку и прекрасные фото. Всем рекомендую.</p>
                                 <h6>Дмитрий Алексанрович, Минск</h6>
                             </div>
 
@@ -169,7 +175,7 @@
                     <div class="single-cool-fact-area text-center mb-100 wow fadeInUpBig" data-wow-delay="1000ms">
                         <img src="img/core-img/coffee.png" alt="">
                         <h2><span class="counter">128</span></h2>
-                        <p>Кофе в мясяц</p>
+                        <p>Выпито чашек кофе в мясяц</p>
                     </div>
                 </div>
             </div>

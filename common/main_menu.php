@@ -6,7 +6,7 @@
         </div>
         <!-- Logo Area -->
         <div class="logo-area">
-            <a href="index.php">BLURRED VISION</a>
+            <a href="main.php">BLURRED VISION</a>
         </div>
         <!-- Nav -->
         <div class="sonarNav">
@@ -25,10 +25,10 @@
                         <a class="nav-link" href="/portfolio">Портфолио</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Блог</a>
+                        <a class="nav-link" href="/blog">Блог</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Контакты</a>
+                        <a class="nav-link" href="/contacts">Контакты</a>
                     </li>
                 </ul>
             </nav>

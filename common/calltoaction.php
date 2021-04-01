@@ -8,7 +8,7 @@
                     <div class="call-to-action-content wow fadeInUp" data-wow-delay="0.5s">
                         <h2>Фотограф Александр Лукашанец</h2>
                         <h5>Свяжитесь со мной</h5>
-                        <a href="contact.html" class="btn sonar-btn mt-100">записаться на съемку</a>
+                        <a href="contacts" class="btn sonar-btn mt-100">записаться на съемку</a>
                     </div>
                 </div>
             </div>

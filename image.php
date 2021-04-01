@@ -15,4 +15,5 @@ if (empty($image)) {
     die;
 }
 
-echo '<img src="data:image/png;base64,'.base64_encode($image).'" width="900" height="600"  />';
+
+echo '<img src="data:image/png;base64,'.base64_encode($image).'" width="936" height="625"/>';

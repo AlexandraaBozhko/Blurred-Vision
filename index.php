@@ -6,6 +6,8 @@ $paths = [
     'about' => 'pages',
     'services' => 'pages',
     'portfolio' => 'pages',
+    'contacts' => 'pages',
+    'blog' => 'pages',
 ];
 
 $path = parse_url($_SERVER['REQUEST_URI']);
@@ -16,19 +18,7 @@ if ($page === 'index') {
 }
 
 
-try {
-    /**
-    $page = !empty($_GET['page']) ? $_GET['page'] : 'main';
-
-    switch ($page) {
-        case 'main': require __DIR__ . '/main.php';
-            break;
-        case 'image': require __DIR__ . '/image.php';
-            break;
-        default: require __DIR__ . '/page.php';
-    }
-    */
-    
+try {  
     if (isset($paths[$page])) {
         $page = $paths[$page] . DIRECTORY_SEPARATOR . $page;
     }

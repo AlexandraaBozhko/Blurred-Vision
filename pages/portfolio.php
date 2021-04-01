@@ -2,6 +2,7 @@
 <?php
     $db = new Database();
     $images  = $db->getImages();
+    $types = $db->getImageTypes();
 
     $pageTitle = 'Портфолио';
     require __DIR__ . '/../common/head.php';
@@ -29,7 +30,7 @@
     <!-- ***** Hero Area Start ***** -->
     <div class="hero-area d-flex align-items-center">
         <!-- Hero Thumbnail -->
-        <div class="hero-thumbnail equalize bg-img" style="background-image: url(img/bg-img/portfolio.jpg);"></div>
+        <div class="hero-thumbnail equalize bg-img" style="background-image: url(img/portfolio-img/WaYHuxPVvoI.jpg);"></div>
         
         <!-- Hero Content -->
         <div class="hero-content equalize">
@@ -40,7 +41,7 @@
                         <h2>Взгляните на мое портфолио</h2>
                         <p>Лучший способ оценить фотографа – это посмотреть на его портфолио. И, что бы ни было написано в биографии фотографа, фотографии сами все о нем расскажут. Самые приятные моменты - это когда то, что ты делаешь, нравится людям. Когда они видят результат вашей совместной работы и остаются довольны,
                          что твой труд дарит положительные эмоции, потому что в каждый кадр ты вкладываешь свою душу.</p>
-                        <a href="contact.html" class="btn sonar-btn white-btn">записаться на съемку</a>
+                        <a href="contacts" class="btn sonar-btn white-btn">записаться на съемку</a>
                     </div>
                 </div>
             </div>
@@ -50,11 +51,9 @@
         <div class="sonar-portfolio-menu">
             <div class="text-center portfolio-menu">
                 <button class="btn active" data-filter="*">Все</button>
-                <button class="btn" data-filter=".landscapes">Пейзажи</button>
-                <button class="btn" data-filter=".portraits">Портреты</button>
-                <button class="btn" data-filter=".fashion">Уличные</button>
-                <button class="btn" data-filter=".studio">Ночные</button>
-                <button class="btn" data-filter=".macro">Макро</button>
+                <?php foreach($types as $type) :?>
+                    <button class="btn" data-filter=".<?=$type['name']?>"><?=$type['title']?></button>
+                <?php endforeach; ?>
             </div>
         </div>
     </div>
@@ -72,7 +71,7 @@
                         <!-- Gallery Content -->
                         <div class="gallery-content">
                             <h4><?=$image['name']; ?></h4>
-                            <p><?=$image['category']; ?></p>
+                            <p><?=$image['title']; ?></p>
                         </div>
                     </div>
                 <?php endforeach; ?>
